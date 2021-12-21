@@ -118,7 +118,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               Padding(
                                 padding: EdgeInsets.only(top: 12.0),
                                 child: Text(
-                                  "03:43",
+                                  "03:44",
                                   style: TextStyle(
                                     fontSize: 12,
                                     fontWeight: FontWeight.w400,
